@@ -1,4 +1,50 @@
 * {
     background-color: rgb(15, 208, 214);
     font-family: "DejaVu Sans", sans-serif;
+    
+}
+
+a:link {
+    color: rgb(60, 41, 78);
+}
+a:visited {
+    color: rgb(156, 94, 214);
+}
+
+h1 {
+    text-align: center;
+    font-size: 44px;
+    text-decoration-line: underline;
+    
+}
+
+h2 {
+    
+    border: 4px solid rgb(105, 35, 64);
+    border-radius: 20px;
+    text-align: center;
+    max-width: 800px;
+    margin: auto
+    
+}
+
+h3 {
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+p {
+    text-align: center;
+    color: rgb(8, 1, 24);
+}
+
+em {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+li {
+    list-style-position: inside;
+    max-width: 800px;
+    margin: auto
 }

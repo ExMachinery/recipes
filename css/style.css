@@ -48,3 +48,14 @@ li {
     max-width: 800px;
     margin: auto
 }
+
+.fix-home {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 350px;
+    border: 3px solid rgb(65, 59, 59);
+    border-radius: 20px;
+    text-align: center;
+    
+}
